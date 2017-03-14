@@ -1,0 +1,63 @@
+.div1{
+  text-align: right;
+  float: left;
+  width: 18%;
+  background-color: #feefd9;
+line-height: 35px;
+font-size: 15px;
+padding-bottom: 25px;
+padding-right: 2%;
+}
+.div2{
+
+  float: left;
+  width:80%;
+  background-color: #feefd9;
+  padding-bottom: 20px;
+}
+
+
+
+.tarea{
+  height: 30px;
+border-radius: 0px;
+border-color: #666666;
+
+}
+br{
+  display:block;
+}
+.tarea2{
+  height: 30px;
+border-radius: 0px;
+border-color: #666666;
+
+}
+body{
+  padding: 15px;
+}
+.dropdown1{
+
+  width: 380px;
+  height: 34px;
+}
+
+.dropdown2{
+  width: 170px;
+  height: 34px;
+}
+.div3{
+  clear: both;
+  background-color: #feefd9;
+  padding: 10px;
+}
+
+
+
+.form1{
+  position: relative;
+  border:solid white;
+  background-color: #feefd9;
+  border-width: 100%;
+  font-size: 15px;
+}
